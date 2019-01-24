@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.raystech.proj0.test.CourseModelTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.298 sec - in com.raystech.proj0.test.CourseModelTest
